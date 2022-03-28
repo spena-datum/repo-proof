@@ -1,1 +1,1 @@
-"This is file A" to github
+"This is file A" to github resolve head lost
